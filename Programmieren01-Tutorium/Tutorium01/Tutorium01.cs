@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Programmieren01_Tutorium.Tutorium01
 {
+ class lukas
+ {
   
+ } 
 
 
 
