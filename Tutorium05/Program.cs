@@ -2,7 +2,7 @@
 {
     public static void Main(string[] args)
     {
-        // Aufgabe01 Erstelle folgendes Array:
+        // Aufgabe01 Erstelle folgendes Array mit 10 zufälligen Werten:
         int[] test = new int[10];
         Random zufall = new Random();
         for (int i = 0; i < 10; i++)
