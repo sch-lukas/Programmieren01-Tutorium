@@ -23,7 +23,7 @@ public static double DPreis (List<Iphone> iphones)
 
 d.) Schreiben Sie in die Struktur Iphone eine Methode NeuerAls, die eine Liste mit allen IPhones zurückgibt, die neuer als
 der Durchschnitt aller Generationen sind.
-public static List<Iphone> SchwererAls(List<Iphone> iphones)
+public static List<Iphone> NeuerAls (List<Iphone> iphones)
 
 }*/
 
