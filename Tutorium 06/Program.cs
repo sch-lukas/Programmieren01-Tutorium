@@ -1,3 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿class Haupt{
 
-Console.WriteLine("Hello, World!");
+ps
+
+
+}
