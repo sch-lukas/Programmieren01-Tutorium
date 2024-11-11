@@ -3,12 +3,12 @@
 
 
 /* Aufgabe 1: Durchschnitt, Minimum, Suchen
-Von einem Handy sind Farbe, Preis und Generation bekannt. Die Farbe wird als Text, der Preis mit
+Von einem Iphone sind Farbe, Preis und Generation bekannt. Die Farbe wird als Text, der Preis mit
 Nachkommastellen und die Generation als ganze Zahl gespeichert.
 
 a.) Geben Sie eine Struktur Iphone an, die diese Daten speichern kann.
 
-b.) Erzeuge in der Main Methode eine Liste ,,iphopnes'' mit den folgenden Iphones:
+b.) Erzeuge in der Main Methode eine Liste ,,iphones'' mit den folgenden Iphones:
     - 1. Iphone, lila, 150.5 Euro
     - 8. Iphone, rot, 348.55 Euro
     - X. Iphone, blau, 654.95 Euro
@@ -26,6 +26,8 @@ der Durchschnitt aller Generationen sind.
 public static List<Iphone> SchwererAls(List<Iphone> iphones)
 
 }*/
+
+
     public static void Main(string[] args)
     {
         
