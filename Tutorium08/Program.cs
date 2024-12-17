@@ -55,7 +55,7 @@ class Haupt
 {
     public static void Main(string[] args)
     {
-        string a = "C:\\Users\\lukas\\Downloads\\Neuer Ordner (4)\\hallo.txt";
+        string a = "C:\\Users\\lukas\\Downloads\\testschreiben\\hallo.txt";
         
         test.Schreibe(a, 4);
         test.Lesen(a);
